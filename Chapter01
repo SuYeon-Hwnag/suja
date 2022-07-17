@@ -1,0 +1,13 @@
+public class HelloWorld
+{
+  public static void Main()
+  {
+    System.Console.WriteLine("수자 코드에 온 걸 환영해 >.<"); // 여긴 못읽지롱!
+    
+    
+    
+    
+    
+    return 0;
+  }
+}
