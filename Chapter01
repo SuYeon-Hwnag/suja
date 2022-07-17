@@ -8,6 +8,6 @@ public class HelloWorld
     
     
     
-    return 0;
+    // return 0; 여기선 void가 0을 반환하니까 넣으면 안돼!
   }
 }
